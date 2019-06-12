@@ -1,2 +1,2 @@
 # website
-Website for arnofiva.github.io
+Website for arnofiva.github.io: {{ site.url }}
